@@ -1,16 +1,14 @@
 Hi 👋 My name is ALİ BAYKARA
 ============================
 
-Cybersecurity
--------------
+Hello, I'm Ali Baykara, I'm 29 years old, I live in Istanbul. I continue to improve myself in the field of cyber security, I am currently continuing in these areas as Penetration Tester - SOC Analyst - Cyber Security Analyst. I try to tryhackme and project in my spare time.
 
-Hello, I am Ali Baykara, I am 29 years old, I live in istanbul. I worked as a electrical and electronics technician for 1 year, but I decided to quit my job because I was not satisfied. I have been involved with technology since my childhood. As technology progressed over time, my curiosity increased and I said it's time to learn. I am trying to improve myself on the software path where I am in the training process. My goal is to be a CyberSecurity . I am sure that I will see the benefits of being curious and willing in this profession in which I am trying to be successful. I like to learn and share what I have learned.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibaykara&label=Profile%20views&color=0e75b6&style=flat" alt="alibaykara" /> </p>
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [info@alibaykara.com](mailto:info@alibaykara.com)
+* ✉️  You can contact me at (mailto:alibaykarabusiness@yandex.com)
 
-<a href="https://www.twitter.com/sudoalibaykara" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/aliibaykara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sudoalibaykara?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/alibaykara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alibaykara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -51,7 +49,7 @@ src="https://img.shields.io/github/followers/alibaykara?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/alibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sudoalibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.medium.com/@sudoalibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/18535128/ali-baykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sudoalibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/alibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aliibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.medium.com/@sudoalibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/18535128/ali-baykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sudoalibaykara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
