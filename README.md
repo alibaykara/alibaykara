@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALİ BAYKARA</h1>
-<h3 align="center">Hello, I'm Ali Baykara, I'm 29 years old, I live in Istanbul. I continue to improve myself in the field of cyber security, I am currently continuing in these areas as Penetration Tester - SOC Analyst - Cyber Security Analyst. I try to tryhackme and project in my spare time.</h3>
+<h3 align="center">Hello, I'm Ali Baykara, I'm 30 years old, I live in Istanbul. I continue to improve myself in the field of cyber security, I am currently continuing in these areas as Penetration Tester - SOC Analyst - Cyber Security Analyst. I try to tryhackme and project in my spare time.</h3>
 
 - 📫 How to reach me **alibaykarabusiness@yandex.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibaykara&label=Profile%20views&color=0e75b6&style=flat" alt="alibaykara" /> </p>
