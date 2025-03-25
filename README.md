@@ -36,15 +36,15 @@ Web güvenliği ve bug bounty avcılığına tutkuyla bağlı biriyim. Amacım, 
 
 * E-posta: [info@alibaykara.com]
 * LinkedIn: [https://www.linkedin.com/in/alibaykara/]
-* X: [X](https://x.com/aliibaykara)]
+* X: [X Hesabım ](https://x.com/aliibaykara)
 
 ## GitHub İstatistiklerim
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[alibaykara]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibaykara&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Katkılarım
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[alibaykara]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibaykara&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Teşekkürler
 
