@@ -1,24 +1,53 @@
-<h1 align="center">Hi 👋, I'm ALİ BAYKARA</h1>
-<h3 align="center">Hello! I'm Ali Baykara. I am an experienced professional in penetration testing, bug bounty hunting, and Cyber Security Analysis.
+# Merhaba!  Ben Ali Baykara
 
-🔍 Penetration Testing: I conduct security tests on web applications, network infrastructures, and mobile applications.
+Web güvenliği ve bug bounty avcılığına tutkuyla bağlı biriyim. Amacım, interneti daha güvenli bir yer haline getirmek ve güvenlik açıklarını bularak şirketlerin ve kullanıcıların verilerini korumaya yardımcı olmak.
 
-🐛 Bug Bounty Hunter: Actively hunting for security vulnerabilities on open-source platforms and reporting them.
+## Hakkımda
 
-💻 Cyber Security Analysis: Working on detecting security incidents, penetration testing, and analyzing malicious software.
+* Web uygulamaları, API'ler ve mobil uygulamalar dahil olmak üzere çeşitli platformlarda güvenlik açıklarını aramaya odaklanıyorum.
+* Burp Suite, OWASP ZAP, Nmap ve Python gibi çeşitli güvenlik araçları ve teknolojileri konusunda deneyimliyim.
+* Sürekli olarak yeni güvenlik teknikleri öğrenmeye ve kendimi geliştirmeye çalışıyorum.
+* Güvenlik topluluklarına aktif olarak katılıyorum ve bilgi paylaşımına önem veriyorum.
 
-On my GitHub profile, I share security tools, open-source projects, and my work related to security. My goal is to contribute to the creation of secure digital environments and promote knowledge sharing.
+## Becerilerim
 
-Feel free to reach out to me if you'd like to discuss anything related to cybersecurity or collaborate!</h3>
+* Web Uygulama Güvenliği (OWASP Top 10, SQL injection, XSS, CSRF vb.)
+* API Güvenliği
+* Mobil Uygulama Güvenliği
+* Ağ Güvenliği
+* Sızma Testi
+* Güvenlik Açığı Analizi
+* Raporlama
 
+## Kullandığım Araçlar
 
+* Burp Suite
+* OWASP ZAP
+* Nmap
+* Metasploit
+* Python (güvenlik scriptleri geliştirme)
+* Ve daha fazlası...
 
-<a href="https://twitter.com/aliibaykara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliibaykara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alibayakara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alibayakara" height="30" width="40" /></a>
-</p>
+## Sertifikalarım
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-- 📫 How to reach me **alibaykarabusiness@yandex.com**
+* Fortinet Certified Associate Cybersecurity
+
+## İletişim
+
+* E-posta: [info@alibaykara.com]
+* LinkedIn: [https://www.linkedin.com/in/alibaykara/]
+* X: [X](https://x.com/aliibaykara)]
+
+## GitHub İstatistiklerim
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[alibaykara]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Katkılarım
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[alibaykara]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Teşekkürler
+
+İlginiz için teşekkür ederim! Herhangi bir sorunuz varsa veya işbirliği yapmak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibaykara&label=Profile%20views&color=0e75b6&style=flat" alt="alibaykara" /> </p>
