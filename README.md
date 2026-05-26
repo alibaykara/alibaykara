@@ -41,8 +41,12 @@ I am a passionate Web Security Researcher and Bug Bounty Hunter. My goal is to m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alibaykara&show_icons=true&theme=dark" alt="Ali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibaykara&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=alibaykara&show_icons=true&theme=dark" alt="Ali's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alibaykara&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 ---
