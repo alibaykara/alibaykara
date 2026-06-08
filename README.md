@@ -11,19 +11,16 @@ I am a passionate Web Security Researcher and Bug Bounty Hunter. My goal is to m
 
 ## 🛠️ Skills & Expertise
 
-* **Web Application Security:** OWASP Top 10, SQL Injection, XSS, CSRF, etc.
+* **Web Application Security:** OWASP Top 10
 * **API Security**
-* **Mobile Application Security**
 * **Network Security**
 * **Penetration Testing**
 * **Vulnerability Analysis & Assessment**
-* **Technical Report Writing**
 
 ## 🧰 Tools & Technologies
 
-* **Interception & Scanning:** Burp Suite, OWASP ZAP, Nmap
-* **Exploitation:** Metasploit
-* **Scripting:** Python (for developing custom security tools and exploits)
+* **Interception & Scanning:** Burp Suite, OWASP ZAP, 
+* **Scripting:** Python & BASH Script (for developing custom security tools and exploits)
 * *And more...*
 
 ## 📜 Certifications
